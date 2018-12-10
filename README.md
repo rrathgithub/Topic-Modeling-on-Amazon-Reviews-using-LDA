@@ -12,3 +12,4 @@ Process Explanation:
 - Next, we applied topic modeling using LDA to extracts key topics and themes from a large corpus of text. 
 - (Latent Dirichlet Allocation (LDA) is a generative and probabilistic model that can be used to automatically group words into topics and documents into a mixture of topics.)
 
+![Image text](LDA-Modeling-on-Amazon-Reviews/LDA_Roadmap.jpg)

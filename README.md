@@ -1,4 +1,4 @@
-# LDA-Modeling-on-Amazon-Reviews
+# LDA Modeling on Amazon Reviews
 
 Why Review Mining Matters? 
 - Intelligence: Reviews tell you what your audience likes and helps companies to learn more about their target demographics.
